@@ -1,6 +1,6 @@
 import org.junit.Test;
 
-public class Myjdk14Test {
+public class Myjdk15Test {
 
 	@Test
     public void test() {
